@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Super Woden GP 2" src="https://raw.githubusercontent.com/sijrrgasyuyg/super-woden-gp-2-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Super Woden GP 2
